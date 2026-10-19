@@ -1,0 +1,2 @@
+# Chưa có phụ thuộc bên thứ ba: mã nguồn hiện tại chỉ chứa week1.py không có import.
+# Cập nhật file này khi mã CNN và pipeline thực tế được bổ sung.
